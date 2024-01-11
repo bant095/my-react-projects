@@ -20,7 +20,7 @@ function App() {
     //set data
     setText(data.slice(0, amount));
   };
-  //retrun key for jsx
+  //new project repo
   return (
     <section className='section-center'>
       <h3>tired of boring lorem ipsum?</h3>
